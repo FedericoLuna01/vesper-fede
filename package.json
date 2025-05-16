@@ -1,0 +1,21 @@
+{
+  "name": "vesper-fede",
+  "displayName": "Fede x Vesper",
+  "description": "Fede x vesper custom theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vesper-Fede",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vesper-Fede-color-theme.json"
+      }
+    ]
+  }
+}
